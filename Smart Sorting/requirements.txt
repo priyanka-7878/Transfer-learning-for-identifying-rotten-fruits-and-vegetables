@@ -3,3 +3,5 @@ tensorflow-cpu
 numpy
 Pillow
 gunicorn
+roboflow
+kaggle
